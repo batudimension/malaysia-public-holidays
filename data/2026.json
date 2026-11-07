@@ -1,0 +1,793 @@
+[
+  {
+    "id": "my-2026-new-year",
+    "date": "2026-01-01",
+    "name": {
+      "en": "New Year's Day",
+      "ms": "Tahun Baru"
+    },
+    "states": [
+      "MLK",
+      "NSN",
+      "PHG",
+      "PNG",
+      "PRK",
+      "SGR",
+      "SBH",
+      "SWK",
+      "KUL",
+      "LBN",
+      "PJY"
+    ]
+  },
+  {
+    "id": "my-2026-negeri-sembilan-ruler-birthday",
+    "date": "2026-01-14",
+    "name": {
+      "en": "YDPB Negeri Sembilan's Birthday",
+      "ms": "Hari Keputeraan YDPB N. Sembilan"
+    },
+    "states": [
+      "NSN"
+    ]
+  },
+  {
+    "id": "my-2026-israk-mikraj",
+    "date": "2026-01-17",
+    "name": {
+      "en": "Israk and Mikraj",
+      "ms": "Israk dan Mikraj"
+    },
+    "states": [
+      "KDH",
+      "NSN",
+      "PLS",
+      "TRG"
+    ]
+  },
+  {
+    "id": "my-2026-terengganu-israk-mikraj-holiday",
+    "date": "2026-01-18",
+    "name": {
+      "en": "Israk and Mikraj Holiday",
+      "ms": "Cuti Israk dan Mikraj"
+    },
+    "states": [
+      "TRG"
+    ]
+  },
+  {
+    "id": "my-2026-thaipusam",
+    "date": "2026-02-01",
+    "name": {
+      "en": "Thaipusam",
+      "ms": "Hari Thaipusam"
+    },
+    "states": [
+      "JHR",
+      "NSN",
+      "PNG",
+      "PRK",
+      "SGR",
+      "KUL",
+      "PJY"
+    ]
+  },
+  {
+    "id": "my-2026-federal-territory-day",
+    "date": "2026-02-01",
+    "name": {
+      "en": "Federal Territory Day",
+      "ms": "Hari Wilayah Persekutuan"
+    },
+    "states": [
+      "KUL",
+      "LBN",
+      "PJY"
+    ]
+  },
+  {
+    "id": "my-2026-thaipusam-holiday",
+    "date": "2026-02-02",
+    "name": {
+      "en": "Thaipusam Holiday",
+      "ms": "Cuti Hari Thaipusam"
+    },
+    "states": [
+      "JHR",
+      "NSN",
+      "PNG",
+      "PRK",
+      "SGR",
+      "KUL",
+      "PJY"
+    ]
+  },
+  {
+    "id": "my-2026-federal-territory-day-holiday",
+    "date": "2026-02-03",
+    "name": {
+      "en": "Federal Territory Day Holiday",
+      "ms": "Cuti Hari Wilayah Persekutuan"
+    },
+    "states": [
+      "KUL",
+      "LBN",
+      "PJY"
+    ]
+  },
+  {
+    "id": "my-2026-chinese-new-year",
+    "date": "2026-02-17",
+    "name": {
+      "en": "Chinese New Year",
+      "ms": "Tahun Baru Cina"
+    },
+    "states": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "my-2026-chinese-new-year-day-two",
+    "date": "2026-02-18",
+    "name": {
+      "en": "Chinese New Year Holiday",
+      "ms": "Tahun Baru Cina Hari Kedua"
+    },
+    "states": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "my-2026-awal-ramadan",
+    "date": "2026-02-19",
+    "name": {
+      "en": "Awal Ramadan",
+      "ms": "Awal Ramadan"
+    },
+    "states": [
+      "JHR",
+      "KDH"
+    ]
+  },
+  {
+    "id": "my-2026-melaka-independence-declaration-day",
+    "date": "2026-02-20",
+    "name": {
+      "en": "Independence Declaration Day",
+      "ms": "Hari Pengisytiharan Tarikh Kemerdekaan"
+    },
+    "states": [
+      "MLK"
+    ]
+  },
+  {
+    "id": "my-2026-terengganu-installation-day",
+    "date": "2026-03-04",
+    "name": {
+      "en": "Installation of Sultan Terengganu",
+      "ms": "Hari Ulang Tahun Pertabalan Sultan Terengganu"
+    },
+    "states": [
+      "TRG"
+    ]
+  },
+  {
+    "id": "my-2026-nuzul-al-quran",
+    "date": "2026-03-07",
+    "name": {
+      "en": "Nuzul Al-Quran",
+      "ms": "Hari Nuzul Al-Quran"
+    },
+    "states": [
+      "KTN",
+      "PHG",
+      "PNG",
+      "PRK",
+      "PLS",
+      "SGR",
+      "TRG",
+      "KUL",
+      "LBN",
+      "PJY"
+    ]
+  },
+  {
+    "id": "my-2026-nuzul-al-quran-holiday",
+    "date": "2026-03-08",
+    "name": {
+      "en": "Nuzul Al-Quran Holiday",
+      "ms": "Cuti Nuzul Al-Quran"
+    },
+    "states": [
+      "KTN",
+      "TRG"
+    ]
+  },
+  {
+    "id": "my-2026-hari-raya-aidilfitri-holiday-1",
+    "date": "2026-03-20",
+    "name": {
+      "en": "Hari Raya Aidilfitri Holiday",
+      "ms": "Cuti Hari Raya Aidilfitri"
+    },
+    "states": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "my-2026-hari-raya-aidilfitri",
+    "date": "2026-03-21",
+    "name": {
+      "en": "Hari Raya Aidilfitri",
+      "ms": "Hari Raya Aidilfitri"
+    },
+    "states": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "my-2026-hari-raya-aidilfitri-day-two",
+    "date": "2026-03-22",
+    "name": {
+      "en": "Hari Raya Aidilfitri Holiday",
+      "ms": "Hari Raya Aidilfitri Hari Kedua"
+    },
+    "states": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "my-2026-johor-sultan-birthday",
+    "date": "2026-03-23",
+    "name": {
+      "en": "Sultan of Johor's Birthday",
+      "ms": "Hari Keputeraan Sultan Johor"
+    },
+    "states": [
+      "JHR"
+    ]
+  },
+  {
+    "id": "my-2026-hari-raya-aidilfitri-holiday-2",
+    "date": "2026-03-23",
+    "name": {
+      "en": "Hari Raya Aidilfitri Holiday",
+      "ms": "Cuti Hari Raya Aidilfitri"
+    },
+    "states": [
+      "JHR",
+      "KTN",
+      "MLK",
+      "NSN",
+      "PHG",
+      "PNG",
+      "PRK",
+      "PLS",
+      "SGR",
+      "TRG",
+      "SBH",
+      "SWK",
+      "KUL",
+      "LBN",
+      "PJY"
+    ]
+  },
+  {
+    "id": "my-2026-hari-raya-aidilfitri-holiday-3",
+    "date": "2026-03-24",
+    "name": {
+      "en": "Hari Raya Aidilfitri Holiday",
+      "ms": "Cuti Hari Raya Aidilfitri"
+    },
+    "states": [
+      "JHR"
+    ]
+  },
+  {
+    "id": "my-2026-sabah-governor-birthday",
+    "date": "2026-03-30",
+    "name": {
+      "en": "Sabah Governor's Birthday",
+      "ms": "Harijadi Yang di-Pertua Negeri Sabah"
+    },
+    "states": [
+      "SBH"
+    ]
+  },
+  {
+    "id": "my-2026-good-friday",
+    "date": "2026-04-03",
+    "name": {
+      "en": "Good Friday",
+      "ms": "Good Friday"
+    },
+    "states": [
+      "SBH",
+      "SWK"
+    ]
+  },
+  {
+    "id": "my-2026-terengganu-sultan-birthday",
+    "date": "2026-04-26",
+    "name": {
+      "en": "Sultan of Terengganu's Birthday",
+      "ms": "Hari Keputeraan Sultan Terengganu"
+    },
+    "states": [
+      "TRG"
+    ]
+  },
+  {
+    "id": "my-2026-labour-day",
+    "date": "2026-05-01",
+    "name": {
+      "en": "Labour Day",
+      "ms": "Hari Pekerja"
+    },
+    "states": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "my-2026-kedah-labour-day-holiday",
+    "date": "2026-05-03",
+    "name": {
+      "en": "Labour Day Holiday",
+      "ms": "Cuti Hari Pekerja"
+    },
+    "states": [
+      "KDH"
+    ]
+  },
+  {
+    "id": "my-2026-raja-perlis-birthday",
+    "date": "2026-05-17",
+    "name": {
+      "en": "Raja Perlis' Birthday",
+      "ms": "Hari Keputeraan Raja Perlis"
+    },
+    "states": [
+      "PLS"
+    ]
+  },
+  {
+    "id": "my-2026-raja-perlis-birthday-holiday",
+    "date": "2026-05-18",
+    "name": {
+      "en": "Raja Perlis' Birthday Holiday",
+      "ms": "Cuti Hari Keputeraan Raja Perlis"
+    },
+    "states": [
+      "PLS"
+    ]
+  },
+  {
+    "id": "my-2026-hari-hol-pahang",
+    "date": "2026-05-22",
+    "name": {
+      "en": "Hari Hol Pahang",
+      "ms": "Hari Hol Pahang"
+    },
+    "states": [
+      "PHG"
+    ]
+  },
+  {
+    "id": "my-2026-arafat-day",
+    "date": "2026-05-26",
+    "name": {
+      "en": "Arafat Day",
+      "ms": "Hari Arafah"
+    },
+    "states": [
+      "KTN",
+      "TRG"
+    ]
+  },
+  {
+    "id": "my-2026-hari-raya-haji",
+    "date": "2026-05-27",
+    "name": {
+      "en": "Hari Raya Haji",
+      "ms": "Hari Raya Haji"
+    },
+    "states": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "my-2026-hari-raya-haji-day-two",
+    "date": "2026-05-28",
+    "name": {
+      "en": "Hari Raya Haji Holiday",
+      "ms": "Hari Raya Haji Hari Kedua"
+    },
+    "states": [
+      "KDH",
+      "KTN",
+      "PLS",
+      "TRG"
+    ]
+  },
+  {
+    "id": "my-2026-kaamatan",
+    "date": "2026-05-30",
+    "name": {
+      "en": "Harvest Festival",
+      "ms": "Pesta Kaamatan"
+    },
+    "states": [
+      "SBH",
+      "LBN"
+    ]
+  },
+  {
+    "id": "my-2026-wesak-day",
+    "date": "2026-05-31",
+    "name": {
+      "en": "Wesak Day",
+      "ms": "Hari Wesak"
+    },
+    "states": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "my-2026-kaamatan-day-two",
+    "date": "2026-05-31",
+    "name": {
+      "en": "Harvest Festival Holiday",
+      "ms": "Pesta Kaamatan Hari Kedua"
+    },
+    "states": [
+      "SBH",
+      "LBN"
+    ]
+  },
+  {
+    "id": "my-2026-gawai",
+    "date": "2026-06-01",
+    "name": {
+      "en": "Hari Gawai",
+      "ms": "Hari Gawai"
+    },
+    "states": [
+      "SWK"
+    ]
+  },
+  {
+    "id": "my-2026-agong-birthday",
+    "date": "2026-06-01",
+    "name": {
+      "en": "Agong's Birthday",
+      "ms": "Hari Keputeraan YDP Agong"
+    },
+    "states": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "my-2026-gawai-day-two",
+    "date": "2026-06-02",
+    "name": {
+      "en": "Hari Gawai Holiday",
+      "ms": "Hari Gawai Hari Kedua"
+    },
+    "states": [
+      "SWK"
+    ]
+  },
+  {
+    "id": "my-2026-wesak-holiday-1",
+    "date": "2026-06-02",
+    "name": {
+      "en": "Wesak Day Holiday",
+      "ms": "Cuti Hari Wesak"
+    },
+    "states": [
+      "JHR",
+      "MLK",
+      "NSN",
+      "PHG",
+      "PNG",
+      "PRK",
+      "PLS",
+      "SGR",
+      "SBH",
+      "KUL",
+      "LBN",
+      "PJY"
+    ]
+  },
+  {
+    "id": "my-2026-kaamatan-holiday",
+    "date": "2026-06-03",
+    "name": {
+      "en": "Harvest Festival Holiday",
+      "ms": "Pesta Kaamatan Hari Kedua"
+    },
+    "states": [
+      "SBH",
+      "LBN"
+    ]
+  },
+  {
+    "id": "my-2026-wesak-holiday-sarawak",
+    "date": "2026-06-03",
+    "name": {
+      "en": "Wesak Day Holiday",
+      "ms": "Cuti Hari Wesak"
+    },
+    "states": [
+      "SWK"
+    ]
+  },
+  {
+    "id": "my-2026-gawai-holiday",
+    "date": "2026-06-04",
+    "name": {
+      "en": "Hari Gawai Holiday",
+      "ms": "Hari Gawai Hari Kedua"
+    },
+    "states": [
+      "SWK"
+    ]
+  },
+  {
+    "id": "my-2026-awal-muharram",
+    "date": "2026-06-17",
+    "name": {
+      "en": "Awal Muharram",
+      "ms": "Awal Muharram"
+    },
+    "states": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "my-2026-kedah-sultan-birthday",
+    "date": "2026-07-05",
+    "name": {
+      "en": "Sultan of Kedah's Birthday",
+      "ms": "Hari Keputeraan Sultan Kedah"
+    },
+    "states": [
+      "KDH"
+    ]
+  },
+  {
+    "id": "my-2026-georgetown-world-heritage-day",
+    "date": "2026-07-07",
+    "name": {
+      "en": "Georgetown World Heritage City Day",
+      "ms": "Hari Bandar Warisan Dunia Georgetown"
+    },
+    "states": [
+      "PNG"
+    ]
+  },
+  {
+    "id": "my-2026-penang-governor-birthday",
+    "date": "2026-07-11",
+    "name": {
+      "en": "Penang Governor's Birthday",
+      "ms": "Harijadi Yang di-Pertua Negeri Pulau Pinang"
+    },
+    "states": [
+      "PNG"
+    ]
+  },
+  {
+    "id": "my-2026-johor-hol-sultan-iskandar",
+    "date": "2026-07-21",
+    "name": {
+      "en": "Hari Hol Almarhum Sultan Iskandar",
+      "ms": "Hari Hol Almarhum Sultan Iskandar"
+    },
+    "states": [
+      "JHR"
+    ]
+  },
+  {
+    "id": "my-2026-sarawak-day",
+    "date": "2026-07-22",
+    "name": {
+      "en": "Sarawak Day",
+      "ms": "Hari Sarawak"
+    },
+    "states": [
+      "SWK"
+    ]
+  },
+  {
+    "id": "my-2026-pahang-sultan-birthday",
+    "date": "2026-07-31",
+    "name": {
+      "en": "Sultan of Pahang's Birthday",
+      "ms": "Hari Keputeraan Sultan Pahang"
+    },
+    "states": [
+      "PHG"
+    ]
+  },
+  {
+    "id": "my-2026-melaka-governor-birthday",
+    "date": "2026-08-24",
+    "name": {
+      "en": "Melaka Governor's Birthday",
+      "ms": "Harijadi Yang di-Pertua Negeri Melaka"
+    },
+    "states": [
+      "MLK"
+    ]
+  },
+  {
+    "id": "my-2026-maulidur-rasul",
+    "date": "2026-08-25",
+    "name": {
+      "en": "Prophet Muhammad's Birthday",
+      "ms": "Maulidur Rasul"
+    },
+    "states": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "my-2026-national-day",
+    "date": "2026-08-31",
+    "name": {
+      "en": "Merdeka Day",
+      "ms": "Hari Kebangsaan"
+    },
+    "states": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "my-2026-malaysia-day",
+    "date": "2026-09-16",
+    "name": {
+      "en": "Malaysia Day",
+      "ms": "Hari Malaysia"
+    },
+    "states": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "my-2026-kelantan-sultan-birthday",
+    "date": "2026-09-29",
+    "name": {
+      "en": "Sultan of Kelantan's Birthday",
+      "ms": "Hari Keputeraan Sultan Kelantan"
+    },
+    "states": [
+      "KTN"
+    ]
+  },
+  {
+    "id": "my-2026-kelantan-sultan-birthday-day-two",
+    "date": "2026-09-30",
+    "name": {
+      "en": "Sultan of Kelantan's Birthday Holiday",
+      "ms": "Hari Keputeraan Sultan Kelantan Hari Kedua"
+    },
+    "states": [
+      "KTN"
+    ]
+  },
+  {
+    "id": "my-2026-sarawak-governor-birthday",
+    "date": "2026-10-10",
+    "name": {
+      "en": "Sarawak Governor's Birthday",
+      "ms": "Harijadi Yang di-Pertua Negeri Sarawak"
+    },
+    "states": [
+      "SWK"
+    ]
+  },
+  {
+    "id": "my-2026-perak-sultan-birthday",
+    "date": "2026-11-06",
+    "name": {
+      "en": "Sultan of Perak's Birthday",
+      "ms": "Hari Keputeraan Sultan Perak"
+    },
+    "states": [
+      "PRK"
+    ]
+  },
+  {
+    "id": "my-2026-deepavali",
+    "date": "2026-11-08",
+    "name": {
+      "en": "Deepavali",
+      "ms": "Hari Deepavali"
+    },
+    "states": [
+      "JHR",
+      "KDH",
+      "KTN",
+      "MLK",
+      "NSN",
+      "PHG",
+      "PNG",
+      "PRK",
+      "PLS",
+      "SGR",
+      "TRG",
+      "SBH",
+      "KUL",
+      "LBN",
+      "PJY"
+    ]
+  },
+  {
+    "id": "my-2026-deepavali-holiday",
+    "date": "2026-11-09",
+    "name": {
+      "en": "Deepavali Holiday",
+      "ms": "Cuti Hari Deepavali"
+    },
+    "states": [
+      "JHR",
+      "MLK",
+      "NSN",
+      "PHG",
+      "PNG",
+      "PRK",
+      "PLS",
+      "SGR",
+      "SBH",
+      "KUL",
+      "LBN",
+      "PJY"
+    ]
+  },
+  {
+    "id": "my-2026-selangor-sultan-birthday",
+    "date": "2026-12-11",
+    "name": {
+      "en": "Sultan of Selangor's Birthday",
+      "ms": "Hari Keputeraan Sultan Selangor"
+    },
+    "states": [
+      "SGR"
+    ]
+  },
+  {
+    "id": "my-2026-sabah-christmas-eve",
+    "date": "2026-12-24",
+    "name": {
+      "en": "Christmas Eve",
+      "ms": "Cuti Hari Natal"
+    },
+    "states": [
+      "SBH"
+    ]
+  },
+  {
+    "id": "my-2026-christmas-day",
+    "date": "2026-12-25",
+    "name": {
+      "en": "Christmas Day",
+      "ms": "Hari Krismas"
+    },
+    "states": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "my-2026-kedah-christmas-holiday",
+    "date": "2026-12-27",
+    "name": {
+      "en": "Christmas Holiday",
+      "ms": "Cuti Hari Krismas"
+    },
+    "states": [
+      "KDH"
+    ]
+  }
+]
