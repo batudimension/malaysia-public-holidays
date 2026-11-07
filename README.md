@@ -1,30 +1,50 @@
-# 🇲🇾 Malaysia Public Holidays Data (`my-calendar-data`)
+# 🇲🇾 Malaysia Public Holidays Data (`malaysia-public-holidays`)
 
-An open-source static JSON dataset containing Malaysian national and state public holiday data. Hosted publicly via GitHub Pages for simple, unauthenticated access.
+An open-source static JSON dataset containing Malaysian national and state public holiday data. Served globally via the **jsDelivr CDN** for fast, unauthenticated, zero-configuration access.
+
+---
 
 ## 📁 Repository Structure
 
-```
-my-calendar-data/
+```text
+malaysia-public-holidays/
 ├── README.md
-├── state-code.json        # List of Malaysian states & ISO codes (root metadata)
+├── state-code.json    # List of Malaysian states & ISO codes (root metadata)
 └── data/
     ├── 2025.json      # Holidays for 2025
     ├── 2026.json      # Holidays for 2026
     └── 2027.json      # Holidays for 2027
-
 ```
 
-## 🌐 Fetching Data
+---
 
-**Base URL:**
-`https://<YOUR-ORG-NAME>.github.io/my-calendar-data/`
+## 🌐 Fetching Data (via jsDelivr CDN)
 
-### JavaScript Example
+Using jsDelivr provides high-availability global CDN caching, automatic Brotli compression, and full CORS support without requiring GitHub Pages or API setup.
 
+### Base CDN URL
+```text
+https://cdn.jsdelivr.net/gh/batudimension/malaysia-public-holidays@main/
 ```
-// Fetch 2026 holidays
-const res = await fetch('https://<YOUR-ORG-NAME>.github.io/my-calendar-data/data/2026.json');
+
+### Production Endpoints
+
+* **State Codes Metadata:**  
+  `https://cdn.jsdelivr.net/gh/batudimension/malaysia-public-holidays@master/state-code.json`
+
+* **2026 Holidays Data:**  
+  `https://cdn.jsdelivr.net/gh/batudimension/malaysia-public-holidays@master/data/2026.json`
+
+---
+
+### Fetch Examples
+
+#### JavaScript / Next.js
+```javascript
+// Fetch 2026 holidays via jsDelivr CDN
+const res = await fetch(
+  'https://cdn.jsdelivr.net/gh/batudimension/malaysia-public-holidays@master/data/2026.json'
+);
 const holidays = await res.json();
 
 // Filter for Selangor (SGR) + National holidays
@@ -32,13 +52,21 @@ const selangorHolidays = holidays.filter(
   (h) => h.states.includes('ALL') || h.states.includes('SGR')
 );
 
+console.log(selangorHolidays);
 ```
+
+#### cURL
+```bash
+curl -X GET "https://cdn.jsdelivr.net/gh/batudimension/malaysia-public-holidays@master/data/2026.json"
+```
+
+---
 
 ## 📄 Schemas
 
-### `data/2026.json`
+### 1. Yearly Holiday Schema (`data/2026.json`)
 
-```
+```json
 [
   {
     "id": "2026-cny-d1",
@@ -63,12 +91,11 @@ const selangorHolidays = holidays.filter(
     "states": ["SGR"]
   }
 ]
-
 ```
 
-### `states.json` (Root)
+### 2. State Codes Schema (`state-code.json`)
 
-```
+```json
 [
   {
     "code": "SGR",
@@ -83,8 +110,9 @@ const selangorHolidays = holidays.filter(
     "weekend": ["Saturday", "Sunday"]
   }
 ]
-
 ```
+
+---
 
 ## 📜 License
 
